@@ -1,6 +1,7 @@
 
-## Overview
+# Project 1- Group 2 Fin-Tech Analysis
 
+## Overview
 This dataset is a collection of beer, spirits, and wine data downloaded from Kaggle. The dataset contains information on the price, rating, rate count, ABV (alcohol by volume), and other details for various brands of alcoholic beverages.
 
 ## Objective
