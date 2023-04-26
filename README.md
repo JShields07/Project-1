@@ -1,29 +1,34 @@
-# Project 1 Fin Tech Bootcamp
-Comparing Beer, Spirits, and Wine Data
 
-Description
-In this project, we will be comparing beer, spirits, and wine data. We have downloaded the data from Kaggle. The data contains information about price, rating/rate count, (R/RC)/price, average ABV/ABVs listed for each beverage type.
+## Overview
 
-We will break down the data for each beverage type and find the average price, rating, R/RC, (R/RC)/price, and ABV/ABVs listed.
+This dataset is a collection of beer, spirits, and wine data downloaded from Kaggle. The dataset contains information on the price, rating, rate count, ABV (alcohol by volume), and other details for various brands of alcoholic beverages.
 
-Files
-The dataset can be found in the following file:
+## Objective
 
-spirits_data.csv, beer_data.csv and wine_data.csv
+The objective of this project is to compare the beer, spirits, and wine data based on their Price, Rating/Rate Count, (R/RC)/Price, and Average ABV/ABV's listed. The comparison will be done for each beverage type separately, and the averages will be calculated for each of the parameters mentioned above.
 
-##Methodology
-Load the data into a Python environment.
-Separate the data by beverage type (beer, spirits, wine).
-For each beverage type:
-Calculate the average price.
-Calculate the average rating.
-Calculate the average R/RC.
-Calculate the average (R/RC)/price.
-Calculate the average ABV/ABVs listed.
-Present the results in a clear and concise manner with graphics 
+## Dataset
 
-Conclusion
-After analyzing the data for each beverage type, we can draw conclusions about the price, rating, R/RC, (R/RC)/price, and ABV/ABVs listed for each type. We can also compare the results across the different beverage types to see how they differ.
+The dataset used for this project is available on Kaggle and can be accessed through the following link:
 
-Contact
-If you have any questions or comments about this project, please contact Jacob Shields or Maria Fernanda Martinez 
+https://www.kaggle.com/datasets/limtis/wikiliq-dataset?select=spirits_data.csv
+
+The dataset contains the following files:
+
+- beer_data.csv: contains information on various brands of beer
+- spirits_data.csv: contains information on various brands of spirits
+- wine_data.csv: contains information on various brands of wine
+
+## Methodology
+
+The comparison will be done for each beverage type separately. For each type, the following parameters will be calculated:
+
+- Average Price: the average price of all the brands in the dataset
+- Average Rating: the average rating of all the brands in the dataset
+- Average R/RC: the average of the ratio of rating and rate count of all the brands in the dataset
+- Average (R/RC)/Price: the average of the ratio of rating and rate count divided by the price of all the brands in the dataset
+- Average ABV/ABV’s listed: the average ABV of all the brands in the dataset
+
+## Conclusion
+
+This project will help in identifying the brands of alcoholic beverages that offer the best value for money based on the parameters mentioned above. The results can be used by consumers to make an informed decision while purchasing alcoholic beverages.
