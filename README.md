@@ -10,7 +10,8 @@ Files
 The dataset can be found in the following file:
 
 spirits_data.csv, beer_data.csv and wine_data.csv
-Methodology
+
+##Methodology
 Load the data into a Python environment.
 Separate the data by beverage type (beer, spirits, wine).
 For each beverage type:
