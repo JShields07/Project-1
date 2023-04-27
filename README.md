@@ -33,3 +33,6 @@ The comparison will be done for each beverage type separately. For each type, th
 ## Conclusion
 
 This project will help in identifying the brands of alcoholic beverages that offer the best value for money based on the parameters mentioned above. The results can be used by consumers to make an informed decision while purchasing alcoholic beverages.
+We could further add on more wines, spirits and beers to balance out the figures even more. With more contribution, we could find out how steady our overall figures are and see if we need more contribution for more accurate statistics.
+We could base multiple projects on this data like presenting to competitors and comparing overall ratings and prices. Showing them our way of determining value and seeing if they want to adapt. Or we could start to make an app, contribute to an existing one and try to see if they can find value in our work.
+
